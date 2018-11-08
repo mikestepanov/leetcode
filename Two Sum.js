@@ -19,3 +19,5 @@ var twoSum = function(nums, target) {
     bucket[num] = i;
   }
 };
+
+//100%
